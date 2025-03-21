@@ -55,9 +55,6 @@ php -S localhost:3000 -t public
 - [ссылка на Git](https://github.com/DenisBiushkin/progression_game)
 
 
-## Требования
-- PHP 8.0+
-- Composer
 
 
 
